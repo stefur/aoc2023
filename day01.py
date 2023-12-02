@@ -2,7 +2,7 @@
 import regex as re
 
 # Get input
-with open("input/day1.txt", "r") as file:
+with open("input/day01.txt", "r") as file:
     calibration_values = file.read().splitlines()
 
 
